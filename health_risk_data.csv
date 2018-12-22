@@ -1,0 +1,559 @@
+Age,Cause of Death,Crude Rate,Deaths,Gender,Population,Race
+1,Accidents ,6.8,145.0,M,2127696.0,Asian or Pacific Islander
+1,"Congenital malformations, deformations and chromosomal abnormalities ",4.6,98.0,M,2127696.0,Asian or Pacific Islander
+1,Malignant neoplasms ,2.2,47.0,M,2127696.0,Asian or Pacific Islander
+1,Assault ,1.1,24.0,M,2127696.0,Asian or Pacific Islander
+1,Diseases of heart ,1.1,23.0,M,2127696.0,Asian or Pacific Islander
+2,Accidents ,5.1,108.0,M,2123819.0,Asian or Pacific Islander
+2,Malignant neoplasms ,2.4,51.0,M,2123819.0,Asian or Pacific Islander
+2,"Congenital malformations, deformations and chromosomal abnormalities ",2.4,50.0,M,2123819.0,Asian or Pacific Islander
+2,Influenza and pneumonia ,1.0,22.0,M,2123819.0,Asian or Pacific Islander
+2,Diseases of heart ,1.0,21.0,M,2123819.0,Asian or Pacific Islander
+2,Assault ,0.9,20.0,M,2123819.0,Asian or Pacific Islander
+3,Accidents ,4.5,95.0,M,2113202.0,Asian or Pacific Islander
+3,Malignant neoplasms ,2.2,46.0,M,2113202.0,Asian or Pacific Islander
+3,"Congenital malformations, deformations and chromosomal abnormalities ",1.9,40.0,M,2113202.0,Asian or Pacific Islander
+3,Accidents ,3.0,62.0,F,2049107.0,Asian or Pacific Islander
+3,Malignant neoplasms ,1.8,37.0,F,2049107.0,Asian or Pacific Islander
+3,"Congenital malformations, deformations and chromosomal abnormalities ",1.6,32.0,F,2049107.0,Asian or Pacific Islander
+2,Accidents ,4.3,89.0,F,2054575.0,Asian or Pacific Islander
+2,"Congenital malformations, deformations and chromosomal abnormalities ",2.1,44.0,F,2054575.0,Asian or Pacific Islander
+2,Malignant neoplasms ,2.1,43.0,F,2054575.0,Asian or Pacific Islander
+2,Diseases of heart ,1.5,30.0,F,2054575.0,Asian or Pacific Islander
+1,"Congenital malformations, deformations and chromosomal abnormalities ",4.9,100.0,F,2046785.0,Asian or Pacific Islander
+1,Accidents ,4.5,92.0,F,2046785.0,Asian or Pacific Islander
+1,Malignant neoplasms ,1.3,26.0,F,2046785.0,Asian or Pacific Islander
+1,Assault ,1.3,26.0,F,2046785.0,Asian or Pacific Islander
+1,Influenza and pneumonia ,1.0,20.0,F,2046785.0,Asian or Pacific Islander
+1,Accidents ,11.9,734.0,F,6151695.0,Black or African American
+1,"Congenital malformations, deformations and chromosomal abnormalities ",8.7,536.0,F,6151695.0,Black or African American
+1,Assault ,8.2,507.0,F,6151695.0,Black or African American
+1,Diseases of heart ,3.8,231.0,F,6151695.0,Black or African American
+1,Influenza and pneumonia ,2.3,141.0,F,6151695.0,Black or African American
+1,Certain conditions originating in the perinatal period ,1.7,106.0,F,6151695.0,Black or African American
+1,Malignant neoplasms ,1.6,99.0,F,6151695.0,Black or African American
+1,Septicemia ,1.0,63.0,F,6151695.0,Black or African American
+1,Cerebrovascular diseases ,1.0,62.0,F,6151695.0,Black or African American
+1,Chronic lower respiratory diseases ,0.9,56.0,F,6151695.0,Black or African American
+1,Anemias ,0.5,33.0,F,6151695.0,Black or African American
+1,Meningitis ,0.5,28.0,F,6151695.0,Black or African American
+1,Acute bronchitis and bronchiolitis ,0.4,22.0,F,6151695.0,Black or African American
+1,Complications of medical and surgical care ,0.4,22.0,F,6151695.0,Black or African American
+1,"In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior ",0.3,21.0,F,6151695.0,Black or African American
+2,Accidents ,11.3,688.0,F,6106596.0,Black or African American
+2,Assault ,6.4,388.0,F,6106596.0,Black or African American
+2,"Congenital malformations, deformations and chromosomal abnormalities ",4.2,257.0,F,6106596.0,Black or African American
+2,Malignant neoplasms ,2.0,125.0,F,6106596.0,Black or African American
+2,Diseases of heart ,1.6,98.0,F,6106596.0,Black or African American
+2,Influenza and pneumonia ,1.0,61.0,F,6106596.0,Black or African American
+2,Septicemia ,0.8,47.0,F,6106596.0,Black or African American
+2,Chronic lower respiratory diseases ,0.7,41.0,F,6106596.0,Black or African American
+2,Certain conditions originating in the perinatal period ,0.6,35.0,F,6106596.0,Black or African American
+2,Anemias ,0.4,24.0,F,6106596.0,Black or African American
+2,Cerebrovascular diseases ,0.4,23.0,F,6106596.0,Black or African American
+2,Complications of medical and surgical care ,0.3,21.0,F,6106596.0,Black or African American
+2,"In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior ",Unreliable,15.0,F,6106596.0,Black or African American
+2,Meningitis ,Unreliable,7.0,F,6106596.0,Black or African American
+2,Acute bronchitis and bronchiolitis ,Unreliable,7.0,F,6106596.0,Black or African American
+3,Accidents ,9.3,565.0,F,6085243.0,Black or African American
+3,Assault ,3.7,224.0,F,6085243.0,Black or African American
+3,Malignant neoplasms ,2.2,133.0,F,6085243.0,Black or African American
+3,"Congenital malformations, deformations and chromosomal abnormalities ",2.2,133.0,F,6085243.0,Black or African American
+3,Diseases of heart ,1.1,67.0,F,6085243.0,Black or African American
+3,Influenza and pneumonia ,0.6,38.0,F,6085243.0,Black or African American
+3,Septicemia ,0.5,30.0,F,6085243.0,Black or African American
+3,Anemias ,0.5,28.0,F,6085243.0,Black or African American
+3,Chronic lower respiratory diseases ,0.4,27.0,F,6085243.0,Black or African American
+3,Cerebrovascular diseases ,0.3,21.0,F,6085243.0,Black or African American
+3,"In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior ",Unreliable,19.0,F,6085243.0,Black or African American
+3,Certain conditions originating in the perinatal period ,Unreliable,18.0,F,6085243.0,Black or African American
+3,Human immunodeficiency virus ,Unreliable,10.0,F,6085243.0,Black or African American
+3,Complications of medical and surgical care ,Unreliable,7.0,F,6085243.0,Black or African American
+3,"Nephritis, nephrotic syndrome and nephrosis ",Unreliable,5.0,F,6085243.0,Black or African American
+3,Accidents ,14.0,883.0,M,6290813.0,Black or African American
+3,Assault ,4.8,302.0,M,6290813.0,Black or African American
+3,Malignant neoplasms ,2.6,166.0,M,6290813.0,Black or African American
+3,"Congenital malformations, deformations and chromosomal abnormalities ",2.6,166.0,M,6290813.0,Black or African American
+3,Chronic lower respiratory diseases ,1.0,65.0,M,6290813.0,Black or African American
+3,Diseases of heart ,1.0,63.0,M,6290813.0,Black or African American
+3,Influenza and pneumonia ,0.7,43.0,M,6290813.0,Black or African American
+3,Anemias ,0.5,31.0,M,6290813.0,Black or African American
+3,Septicemia ,0.5,30.0,M,6290813.0,Black or African American
+3,Certain conditions originating in the perinatal period ,0.4,28.0,M,6290813.0,Black or African American
+3,"In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior ",0.3,21.0,M,6290813.0,Black or African American
+3,Cerebrovascular diseases ,Unreliable,16.0,M,6290813.0,Black or African American
+3,Complications of medical and surgical care ,Unreliable,13.0,M,6290813.0,Black or African American
+3,"Nephritis, nephrotic syndrome and nephrosis ",Unreliable,8.0,M,6290813.0,Black or African American
+3,Meningitis ,Unreliable,7.0,M,6290813.0,Black or African American
+2,Accidents ,15.7,990.0,M,6316917.0,Black or African American
+2,Assault ,7.8,492.0,M,6316917.0,Black or African American
+2,"Congenital malformations, deformations and chromosomal abnormalities ",4.0,252.0,M,6316917.0,Black or African American
+2,Malignant neoplasms ,2.2,142.0,M,6316917.0,Black or African American
+2,Diseases of heart ,2.1,130.0,M,6316917.0,Black or African American
+2,Influenza and pneumonia ,1.3,85.0,M,6316917.0,Black or African American
+2,Chronic lower respiratory diseases ,1.0,64.0,M,6316917.0,Black or African American
+2,Certain conditions originating in the perinatal period ,0.9,54.0,M,6316917.0,Black or African American
+2,Septicemia ,0.6,41.0,M,6316917.0,Black or African American
+2,Cerebrovascular diseases ,0.5,29.0,M,6316917.0,Black or African American
+2,Anemias ,0.4,28.0,M,6316917.0,Black or African American
+2,"In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior ",0.3,22.0,M,6316917.0,Black or African American
+2,Complications of medical and surgical care ,Unreliable,16.0,M,6316917.0,Black or African American
+2,Acute bronchitis and bronchiolitis ,Unreliable,9.0,M,6316917.0,Black or African American
+2,Meningitis ,Unreliable,9.0,M,6316917.0,Black or African American
+2,Meningococcal infection ,Unreliable,9.0,M,6316917.0,Black or African American
+1,Accidents ,16.5,1052.0,M,6363330.0,Black or African American
+1,Assault ,9.6,613.0,M,6363330.0,Black or African American
+1,"Congenital malformations, deformations and chromosomal abnormalities ",9.1,579.0,M,6363330.0,Black or African American
+1,Diseases of heart ,4.2,267.0,M,6363330.0,Black or African American
+1,Influenza and pneumonia ,2.5,157.0,M,6363330.0,Black or African American
+1,Certain conditions originating in the perinatal period ,2.3,146.0,M,6363330.0,Black or African American
+1,Malignant neoplasms ,1.8,116.0,M,6363330.0,Black or African American
+1,Chronic lower respiratory diseases ,1.6,100.0,M,6363330.0,Black or African American
+1,Septicemia ,1.4,90.0,M,6363330.0,Black or African American
+1,Cerebrovascular diseases ,1.4,89.0,M,6363330.0,Black or African American
+1,Anemias ,0.7,45.0,M,6363330.0,Black or African American
+1,"In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior ",0.5,33.0,M,6363330.0,Black or African American
+1,Acute bronchitis and bronchiolitis ,0.5,33.0,M,6363330.0,Black or African American
+1,Complications of medical and surgical care ,0.5,32.0,M,6363330.0,Black or African American
+1,Meningitis ,0.4,28.0,M,6363330.0,Black or African American
+1,Accidents ,14.1,4145.0,M,29312355.0,White
+1,"Congenital malformations, deformations and chromosomal abnormalities ",5.7,1677.0,M,29312355.0,White
+1,Assault ,3.0,881.0,M,29312355.0,White
+1,Malignant neoplasms ,2.2,636.0,M,29312355.0,White
+1,Diseases of heart ,1.7,495.0,M,29312355.0,White
+1,Influenza and pneumonia ,1.1,330.0,M,29312355.0,White
+1,Septicemia ,0.8,237.0,M,29312355.0,White
+1,Certain conditions originating in the perinatal period ,0.7,214.0,M,29312355.0,White
+1,Cerebrovascular diseases ,0.4,129.0,M,29312355.0,White
+1,"In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior ",0.4,125.0,M,29312355.0,White
+1,Chronic lower respiratory diseases ,0.4,116.0,M,29312355.0,White
+1,Meningitis ,0.3,75.0,M,29312355.0,White
+1,Acute bronchitis and bronchiolitis ,0.2,72.0,M,29312355.0,White
+1,Complications of medical and surgical care ,0.2,47.0,M,29312355.0,White
+1,Anemias ,0.1,35.0,M,29312355.0,White
+2,Accidents ,12.6,3690.0,M,29318881.0,White
+2,"Congenital malformations, deformations and chromosomal abnormalities ",2.9,860.0,M,29318881.0,White
+2,Malignant neoplasms ,2.5,737.0,M,29318881.0,White
+2,Assault ,2.1,602.0,M,29318881.0,White
+2,Diseases of heart ,0.8,245.0,M,29318881.0,White
+2,Influenza and pneumonia ,0.6,164.0,M,29318881.0,White
+2,Septicemia ,0.4,119.0,M,29318881.0,White
+2,"In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior ",0.4,106.0,M,29318881.0,White
+2,Cerebrovascular diseases ,0.3,98.0,M,29318881.0,White
+2,Certain conditions originating in the perinatal period ,0.3,85.0,M,29318881.0,White
+2,Chronic lower respiratory diseases ,0.2,64.0,M,29318881.0,White
+2,Meningitis ,0.1,40.0,M,29318881.0,White
+2,Acute bronchitis and bronchiolitis ,0.1,35.0,M,29318881.0,White
+2,Complications of medical and surgical care ,0.1,35.0,M,29318881.0,White
+2,Anemias ,0.1,26.0,M,29318881.0,White
+3,Accidents ,9.7,2863.0,M,29382821.0,White
+3,Malignant neoplasms ,3.0,890.0,M,29382821.0,White
+3,"Congenital malformations, deformations and chromosomal abnormalities ",1.9,570.0,M,29382821.0,White
+3,Assault ,1.3,395.0,M,29382821.0,White
+3,Diseases of heart ,0.6,181.0,M,29382821.0,White
+3,Influenza and pneumonia ,0.4,116.0,M,29382821.0,White
+3,Septicemia ,0.3,95.0,M,29382821.0,White
+3,"In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior ",0.3,88.0,M,29382821.0,White
+3,Chronic lower respiratory diseases ,0.2,54.0,M,29382821.0,White
+3,Cerebrovascular diseases ,0.2,50.0,M,29382821.0,White
+3,Certain conditions originating in the perinatal period ,0.2,45.0,M,29382821.0,White
+3,Complications of medical and surgical care ,0.1,29.0,M,29382821.0,White
+3,Meningitis ,0.1,25.0,M,29382821.0,White
+3,Meningococcal infection ,0.1,23.0,M,29382821.0,White
+3,Anemias ,0.1,22.0,M,29382821.0,White
+3,Accidents ,5.7,1609.0,F,28017616.0,White
+3,Malignant neoplasms ,2.3,648.0,F,28017616.0,White
+3,"Congenital malformations, deformations and chromosomal abnormalities ",1.7,490.0,F,28017616.0,White
+3,Assault ,1.2,346.0,F,28017616.0,White
+3,Diseases of heart ,0.6,169.0,F,28017616.0,White
+3,Influenza and pneumonia ,0.5,129.0,F,28017616.0,White
+3,Septicemia ,0.3,74.0,F,28017616.0,White
+3,"In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior ",0.3,73.0,F,28017616.0,White
+3,Cerebrovascular diseases ,0.2,53.0,F,28017616.0,White
+3,Certain conditions originating in the perinatal period ,0.2,46.0,F,28017616.0,White
+3,Chronic lower respiratory diseases ,0.2,44.0,F,28017616.0,White
+3,Complications of medical and surgical care ,0.1,27.0,F,28017616.0,White
+3,Anemias ,0.1,26.0,F,28017616.0,White
+3,Meningitis ,0.1,23.0,F,28017616.0,White
+3,"Nephritis, nephrotic syndrome and nephrosis ",0.1,21.0,F,28017616.0,White
+4,Accidents ,2.8,57.0,F,2044835.0,Asian or Pacific Islander
+4,Malignant neoplasms ,1.6,32.0,F,2044835.0,Asian or Pacific Islander
+4,"Congenital malformations, deformations and chromosomal abnormalities ",Unreliable,17.0,F,2044835.0,Asian or Pacific Islander
+4,Diseases of heart ,Unreliable,15.0,F,2044835.0,Asian or Pacific Islander
+4,Influenza and pneumonia ,Unreliable,14.0,F,2044835.0,Asian or Pacific Islander
+4,Assault ,Unreliable,11.0,F,2044835.0,Asian or Pacific Islander
+4,Chronic lower respiratory diseases ,Unreliable,5.0,F,2044835.0,Asian or Pacific Islander
+4,Anemias ,Unreliable,4.0,F,2044835.0,Asian or Pacific Islander
+4,Septicemia ,Unreliable,4.0,F,2044835.0,Asian or Pacific Islander
+4,"In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior ",Unreliable,4.0,F,2044835.0,Asian or Pacific Islander
+4,Cerebrovascular diseases ,Unreliable,3.0,F,2044835.0,Asian or Pacific Islander
+4,Meningitis ,Unreliable,3.0,F,2044835.0,Asian or Pacific Islander
+4,Hernia ,Unreliable,1.0,F,2044835.0,Asian or Pacific Islander
+4,Peptic ulcer ,Unreliable,1.0,F,2044835.0,Asian or Pacific Islander
+4,Accidents ,4.9,1389.0,F,28151401.0,White
+4,Malignant neoplasms ,2.4,670.0,F,28151401.0,White
+4,"Congenital malformations, deformations and chromosomal abnormalities ",1.3,353.0,F,28151401.0,White
+4,Assault ,0.8,212.0,F,28151401.0,White
+4,Diseases of heart ,0.4,121.0,F,28151401.0,White
+4,"In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior ",0.3,84.0,F,28151401.0,White
+4,Influenza and pneumonia ,0.3,73.0,F,28151401.0,White
+4,Septicemia ,0.2,60.0,F,28151401.0,White
+4,Cerebrovascular diseases ,0.1,40.0,F,28151401.0,White
+4,Certain conditions originating in the perinatal period ,0.1,29.0,F,28151401.0,White
+4,Meningitis ,0.1,21.0,F,28151401.0,White
+4,Chronic lower respiratory diseases ,0.1,20.0,F,28151401.0,White
+4,Complications of medical and surgical care ,Unreliable,19.0,F,28151401.0,White
+4,Anemias ,Unreliable,14.0,F,28151401.0,White
+4,"Nephritis, nephrotic syndrome and nephrosis ",Unreliable,13.0,F,28151401.0,White
+4,Accidents ,8.1,498.0,F,6113614.0,Black or African American
+4,Malignant neoplasms ,2.6,157.0,F,6113614.0,Black or African American
+4,Assault ,2.4,144.0,F,6113614.0,Black or African American
+4,"Congenital malformations, deformations and chromosomal abnormalities ",1.9,117.0,F,6113614.0,Black or African American
+4,Diseases of heart ,0.7,45.0,F,6113614.0,Black or African American
+4,Chronic lower respiratory diseases ,0.7,42.0,F,6113614.0,Black or African American
+4,Influenza and pneumonia ,0.4,26.0,F,6113614.0,Black or African American
+4,Anemias ,0.3,21.0,F,6113614.0,Black or African American
+4,Septicemia ,Unreliable,19.0,F,6113614.0,Black or African American
+4,"In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior ",Unreliable,17.0,F,6113614.0,Black or African American
+4,Cerebrovascular diseases ,Unreliable,16.0,F,6113614.0,Black or African American
+4,Certain conditions originating in the perinatal period ,Unreliable,10.0,F,6113614.0,Black or African American
+4,Meningitis ,Unreliable,7.0,F,6113614.0,Black or African American
+4,Human immunodeficiency virus ,Unreliable,5.0,F,6113614.0,Black or African American
+4,Complications of medical and surgical care ,Unreliable,5.0,F,6113614.0,Black or African American
+4,"Nephritis, nephrotic syndrome and nephrosis ",Unreliable,5.0,F,6113614.0,Black or African American
+4,Accidents ,6.7,601.0,M,8906903.0,Hispanic or Latino
+4,Malignant neoplasms ,2.3,202.0,M,8906903.0,Hispanic or Latino
+4,"Congenital malformations, deformations and chromosomal abnormalities ",1.4,125.0,M,8906903.0,Hispanic or Latino
+4,Assault ,1.2,106.0,M,8906903.0,Hispanic or Latino
+4,Diseases of heart ,0.5,46.0,M,8906903.0,Hispanic or Latino
+4,Influenza and pneumonia ,0.3,31.0,M,8906903.0,Hispanic or Latino
+4,Chronic lower respiratory diseases ,Unreliable,18.0,M,8906903.0,Hispanic or Latino
+4,Septicemia ,Unreliable,16.0,M,8906903.0,Hispanic or Latino
+4,Certain conditions originating in the perinatal period ,Unreliable,15.0,M,8906903.0,Hispanic or Latino
+4,Cerebrovascular diseases ,Unreliable,15.0,M,8906903.0,Hispanic or Latino
+4,"In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior ",Unreliable,12.0,M,8906903.0,Hispanic or Latino
+4,Meningitis ,Unreliable,5.0,M,8906903.0,Hispanic or Latino
+4,Complications of medical and surgical care ,Unreliable,5.0,M,8906903.0,Hispanic or Latino
+4,"Nephritis, nephrotic syndrome and nephrosis ",Unreliable,5.0,M,8906903.0,Hispanic or Latino
+4,Meningococcal infection ,Unreliable,4.0,M,8906903.0,Hispanic or Latino
+4,Diseases of appendix ,Unreliable,4.0,M,8906903.0,Hispanic or Latino
+4,Accidents ,4.4,380.0,F,8540133.0,Hispanic or Latino
+4,Malignant neoplasms ,2.5,210.0,F,8540133.0,Hispanic or Latino
+4,"Congenital malformations, deformations and chromosomal abnormalities ",1.1,92.0,F,8540133.0,Hispanic or Latino
+4,Assault ,0.9,76.0,F,8540133.0,Hispanic or Latino
+4,Influenza and pneumonia ,0.4,31.0,F,8540133.0,Hispanic or Latino
+4,Diseases of heart ,0.3,29.0,F,8540133.0,Hispanic or Latino
+4,"In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior ",0.3,22.0,F,8540133.0,Hispanic or Latino
+4,Septicemia ,Unreliable,15.0,F,8540133.0,Hispanic or Latino
+4,Certain conditions originating in the perinatal period ,Unreliable,10.0,F,8540133.0,Hispanic or Latino
+4,Chronic lower respiratory diseases ,Unreliable,10.0,F,8540133.0,Hispanic or Latino
+4,Cerebrovascular diseases ,Unreliable,9.0,F,8540133.0,Hispanic or Latino
+4,Meningitis ,Unreliable,8.0,F,8540133.0,Hispanic or Latino
+4,Complications of medical and surgical care ,Unreliable,8.0,F,8540133.0,Hispanic or Latino
+4,"Nephritis, nephrotic syndrome and nephrosis ",Unreliable,5.0,F,8540133.0,Hispanic or Latino
+4,Anemias ,Unreliable,4.0,F,8540133.0,Hispanic or Latino
+2,Accidents ,7.9,2205.0,F,27954568.0,White
+2,"Congenital malformations, deformations and chromosomal abnormalities ",2.8,771.0,F,27954568.0,White
+2,Malignant neoplasms ,2.2,618.0,F,27954568.0,White
+2,Assault ,1.7,478.0,F,27954568.0,White
+2,Diseases of heart ,0.8,217.0,F,27954568.0,White
+2,Influenza and pneumonia ,0.6,175.0,F,27954568.0,White
+2,"In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior ",0.4,105.0,F,27954568.0,White
+2,Septicemia ,0.4,104.0,F,27954568.0,White
+2,Cerebrovascular diseases ,0.3,72.0,F,27954568.0,White
+2,Certain conditions originating in the perinatal period ,0.2,58.0,F,27954568.0,White
+2,Chronic lower respiratory diseases ,0.2,46.0,F,27954568.0,White
+2,Acute bronchitis and bronchiolitis ,0.1,30.0,F,27954568.0,White
+2,Complications of medical and surgical care ,0.1,25.0,F,27954568.0,White
+2,Anemias ,0.1,23.0,F,27954568.0,White
+2,"Nephritis, nephrotic syndrome and nephrosis ",0.1,22.0,F,27954568.0,White
+1,Accidents ,10.4,2919.0,F,27979060.0,White
+1,"Congenital malformations, deformations and chromosomal abnormalities ",5.8,1636.0,F,27979060.0,White
+1,Assault ,2.5,711.0,F,27979060.0,White
+1,Malignant neoplasms ,2.1,588.0,F,27979060.0,White
+1,Diseases of heart ,1.5,425.0,F,27979060.0,White
+1,Influenza and pneumonia ,1.2,324.0,F,27979060.0,White
+1,Septicemia ,0.8,224.0,F,27979060.0,White
+1,Certain conditions originating in the perinatal period ,0.5,136.0,F,27979060.0,White
+1,"In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior ",0.5,128.0,F,27979060.0,White
+1,Cerebrovascular diseases ,0.5,126.0,F,27979060.0,White
+1,Chronic lower respiratory diseases ,0.3,80.0,F,27979060.0,White
+1,Meningitis ,0.2,57.0,F,27979060.0,White
+1,Acute bronchitis and bronchiolitis ,0.2,55.0,F,27979060.0,White
+1,Anemias ,0.1,41.0,F,27979060.0,White
+1,Complications of medical and surgical care ,0.1,37.0,F,27979060.0,White
+1,Accidents ,19.4,128.0,M,659593.0,American Indian or Alaska Native
+1,Assault ,7.6,50.0,M,659593.0,American Indian or Alaska Native
+1,"Congenital malformations, deformations and chromosomal abnormalities ",5.6,37.0,M,659593.0,American Indian or Alaska Native
+1,Diseases of heart ,Unreliable,16.0,M,659593.0,American Indian or Alaska Native
+1,Influenza and pneumonia ,Unreliable,12.0,M,659593.0,American Indian or Alaska Native
+1,Malignant neoplasms ,Unreliable,9.0,M,659593.0,American Indian or Alaska Native
+1,Septicemia ,Unreliable,8.0,M,659593.0,American Indian or Alaska Native
+1,Certain conditions originating in the perinatal period ,Unreliable,7.0,M,659593.0,American Indian or Alaska Native
+1,Acute bronchitis and bronchiolitis ,Unreliable,4.0,M,659593.0,American Indian or Alaska Native
+1,Meningitis ,Unreliable,3.0,M,659593.0,American Indian or Alaska Native
+1,Meningococcal infection ,Unreliable,2.0,M,659593.0,American Indian or Alaska Native
+1,Cerebrovascular diseases ,Unreliable,2.0,M,659593.0,American Indian or Alaska Native
+1,Chronic lower respiratory diseases ,Unreliable,2.0,M,659593.0,American Indian or Alaska Native
+1,"Nephritis, nephrotic syndrome and nephrosis ",Unreliable,1.0,M,659593.0,American Indian or Alaska Native
+1,Hernia ,Unreliable,1.0,M,659593.0,American Indian or Alaska Native
+1,Enterocolitis due to Clostridium difficile ,Unreliable,1.0,M,659593.0,American Indian or Alaska Native
+1,"In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior ",Unreliable,1.0,M,659593.0,American Indian or Alaska Native
+2,Accidents ,17.4,114.0,M,653479.0,American Indian or Alaska Native
+2,Assault ,3.5,23.0,M,653479.0,American Indian or Alaska Native
+2,"Congenital malformations, deformations and chromosomal abnormalities ",Unreliable,18.0,M,653479.0,American Indian or Alaska Native
+2,Malignant neoplasms ,Unreliable,13.0,M,653479.0,American Indian or Alaska Native
+2,Diseases of heart ,Unreliable,8.0,M,653479.0,American Indian or Alaska Native
+2,Chronic lower respiratory diseases ,Unreliable,4.0,M,653479.0,American Indian or Alaska Native
+2,Meningococcal infection ,Unreliable,2.0,M,653479.0,American Indian or Alaska Native
+2,Cerebrovascular diseases ,Unreliable,2.0,M,653479.0,American Indian or Alaska Native
+2,Septicemia ,Unreliable,2.0,M,653479.0,American Indian or Alaska Native
+2,Influenza and pneumonia ,Unreliable,2.0,M,653479.0,American Indian or Alaska Native
+2,Acute bronchitis and bronchiolitis ,Unreliable,1.0,M,653479.0,American Indian or Alaska Native
+2,Complications of medical and surgical care ,Unreliable,1.0,M,653479.0,American Indian or Alaska Native
+3,Accidents ,15.2,99.0,M,652838.0,American Indian or Alaska Native
+3,Assault ,Unreliable,17.0,M,652838.0,American Indian or Alaska Native
+3,Malignant neoplasms ,Unreliable,12.0,M,652838.0,American Indian or Alaska Native
+3,"Congenital malformations, deformations and chromosomal abnormalities ",Unreliable,7.0,M,652838.0,American Indian or Alaska Native
+3,Cerebrovascular diseases ,Unreliable,5.0,M,652838.0,American Indian or Alaska Native
+3,Diseases of appendix ,Unreliable,1.0,M,652838.0,American Indian or Alaska Native
+3,Influenza and pneumonia ,Unreliable,1.0,M,652838.0,American Indian or Alaska Native
+3,"Nephritis, nephrotic syndrome and nephrosis ",Unreliable,1.0,M,652838.0,American Indian or Alaska Native
+3,Septicemia ,Unreliable,1.0,M,652838.0,American Indian or Alaska Native
+3,"In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior ",Unreliable,1.0,M,652838.0,American Indian or Alaska Native
+3,Acute bronchitis and bronchiolitis ,Unreliable,1.0,M,652838.0,American Indian or Alaska Native
+3,Meningococcal infection ,Unreliable,1.0,M,652838.0,American Indian or Alaska Native
+3,Meningitis ,Unreliable,1.0,M,652838.0,American Indian or Alaska Native
+3,Chronic lower respiratory diseases ,Unreliable,1.0,M,652838.0,American Indian or Alaska Native
+3,Accidents ,6.9,44.0,F,634584.0,American Indian or Alaska Native
+3,"Congenital malformations, deformations and chromosomal abnormalities ",Unreliable,15.0,F,634584.0,American Indian or Alaska Native
+3,Assault ,Unreliable,15.0,F,634584.0,American Indian or Alaska Native
+3,Malignant neoplasms ,Unreliable,7.0,F,634584.0,American Indian or Alaska Native
+3,Influenza and pneumonia ,Unreliable,5.0,F,634584.0,American Indian or Alaska Native
+3,Septicemia ,Unreliable,4.0,F,634584.0,American Indian or Alaska Native
+3,Diseases of heart ,Unreliable,3.0,F,634584.0,American Indian or Alaska Native
+3,Chronic lower respiratory diseases ,Unreliable,2.0,F,634584.0,American Indian or Alaska Native
+3,"In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior ",Unreliable,2.0,F,634584.0,American Indian or Alaska Native
+3,Certain conditions originating in the perinatal period ,Unreliable,2.0,F,634584.0,American Indian or Alaska Native
+3,Complications of medical and surgical care ,Unreliable,1.0,F,634584.0,American Indian or Alaska Native
+3,Acute bronchitis and bronchiolitis ,Unreliable,1.0,F,634584.0,American Indian or Alaska Native
+3,Cerebrovascular diseases ,Unreliable,1.0,F,634584.0,American Indian or Alaska Native
+3,Infections of kidney ,Unreliable,1.0,F,634584.0,American Indian or Alaska Native
+2,Accidents ,11.8,75.0,F,634470.0,American Indian or Alaska Native
+2,"Congenital malformations, deformations and chromosomal abnormalities ",4.4,28.0,F,634470.0,American Indian or Alaska Native
+2,Assault ,Unreliable,17.0,F,634470.0,American Indian or Alaska Native
+2,Diseases of heart ,Unreliable,9.0,F,634470.0,American Indian or Alaska Native
+2,Malignant neoplasms ,Unreliable,9.0,F,634470.0,American Indian or Alaska Native
+2,Septicemia ,Unreliable,4.0,F,634470.0,American Indian or Alaska Native
+2,Influenza and pneumonia ,Unreliable,3.0,F,634470.0,American Indian or Alaska Native
+2,Cerebrovascular diseases ,Unreliable,2.0,F,634470.0,American Indian or Alaska Native
+2,Meningitis ,Unreliable,2.0,F,634470.0,American Indian or Alaska Native
+2,Acute bronchitis and bronchiolitis ,Unreliable,1.0,F,634470.0,American Indian or Alaska Native
+2,Hernia ,Unreliable,1.0,F,634470.0,American Indian or Alaska Native
+2,Pneumonitis due to solids and liquids ,Unreliable,1.0,F,634470.0,American Indian or Alaska Native
+2,Diseases of appendix ,Unreliable,1.0,F,634470.0,American Indian or Alaska Native
+2,Chronic lower respiratory diseases ,Unreliable,1.0,F,634470.0,American Indian or Alaska Native
+1,Accidents ,15.3,98.0,F,640867.0,American Indian or Alaska Native
+1,"Congenital malformations, deformations and chromosomal abnormalities ",5.6,36.0,F,640867.0,American Indian or Alaska Native
+1,Assault ,5.0,32.0,F,640867.0,American Indian or Alaska Native
+1,Influenza and pneumonia ,Unreliable,15.0,F,640867.0,American Indian or Alaska Native
+1,Diseases of heart ,Unreliable,12.0,F,640867.0,American Indian or Alaska Native
+1,Septicemia ,Unreliable,9.0,F,640867.0,American Indian or Alaska Native
+1,Malignant neoplasms ,Unreliable,6.0,F,640867.0,American Indian or Alaska Native
+1,Acute bronchitis and bronchiolitis ,Unreliable,4.0,F,640867.0,American Indian or Alaska Native
+1,Chronic lower respiratory diseases ,Unreliable,3.0,F,640867.0,American Indian or Alaska Native
+1,Pneumonitis due to solids and liquids ,Unreliable,2.0,F,640867.0,American Indian or Alaska Native
+1,Certain conditions originating in the perinatal period ,Unreliable,2.0,F,640867.0,American Indian or Alaska Native
+1,Meningococcal infection ,Unreliable,2.0,F,640867.0,American Indian or Alaska Native
+1,Meningitis ,Unreliable,2.0,F,640867.0,American Indian or Alaska Native
+1,Parkinson's disease ,Unreliable,1.0,F,640867.0,American Indian or Alaska Native
+1,Diabetes mellitus ,Unreliable,1.0,F,640867.0,American Indian or Alaska Native
+1,Cerebrovascular diseases ,Unreliable,1.0,F,640867.0,American Indian or Alaska Native
+1,Infections of kidney ,Unreliable,1.0,F,640867.0,American Indian or Alaska Native
+1,"In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior ",Unreliable,1.0,F,640867.0,American Indian or Alaska Native
+1,Accidents ,12.9,1192.0,M,9259958.0,Hispanic or Latino
+1,"Congenital malformations, deformations and chromosomal abnormalities ",6.3,587.0,M,9259958.0,Hispanic or Latino
+1,Assault ,3.1,286.0,M,9259958.0,Hispanic or Latino
+1,Malignant neoplasms ,1.9,179.0,M,9259958.0,Hispanic or Latino
+1,Diseases of heart ,1.7,158.0,M,9259958.0,Hispanic or Latino
+1,Influenza and pneumonia ,1.2,112.0,M,9259958.0,Hispanic or Latino
+1,Septicemia ,0.9,80.0,M,9259958.0,Hispanic or Latino
+1,Certain conditions originating in the perinatal period ,0.6,58.0,M,9259958.0,Hispanic or Latino
+1,Cerebrovascular diseases ,0.4,40.0,M,9259958.0,Hispanic or Latino
+1,Chronic lower respiratory diseases ,0.4,36.0,M,9259958.0,Hispanic or Latino
+1,"In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior ",0.3,30.0,M,9259958.0,Hispanic or Latino
+1,Acute bronchitis and bronchiolitis ,0.3,25.0,M,9259958.0,Hispanic or Latino
+1,Complications of medical and surgical care ,Unreliable,17.0,M,9259958.0,Hispanic or Latino
+1,Meningitis ,Unreliable,16.0,M,9259958.0,Hispanic or Latino
+1,Pneumonitis due to solids and liquids ,Unreliable,15.0,M,9259958.0,Hispanic or Latino
+5,Accidents ,5.2,458.0,M,8811268.0,Hispanic or Latino
+5,Malignant neoplasms ,2.4,214.0,M,8811268.0,Hispanic or Latino
+5,"Congenital malformations, deformations and chromosomal abnormalities ",1.2,104.0,M,8811268.0,Hispanic or Latino
+5,Assault ,0.7,64.0,M,8811268.0,Hispanic or Latino
+5,Diseases of heart ,0.4,34.0,M,8811268.0,Hispanic or Latino
+5,Influenza and pneumonia ,0.3,29.0,M,8811268.0,Hispanic or Latino
+5,Chronic lower respiratory diseases ,Unreliable,17.0,M,8811268.0,Hispanic or Latino
+5,"In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior ",Unreliable,17.0,M,8811268.0,Hispanic or Latino
+5,Septicemia ,Unreliable,14.0,M,8811268.0,Hispanic or Latino
+5,Cerebrovascular diseases ,Unreliable,12.0,M,8811268.0,Hispanic or Latino
+5,Certain conditions originating in the perinatal period ,Unreliable,8.0,M,8811268.0,Hispanic or Latino
+5,Anemias ,Unreliable,5.0,M,8811268.0,Hispanic or Latino
+5,Complications of medical and surgical care ,Unreliable,4.0,M,8811268.0,Hispanic or Latino
+5,Meningococcal infection ,Unreliable,3.0,M,8811268.0,Hispanic or Latino
+5,Acute bronchitis and bronchiolitis ,Unreliable,3.0,M,8811268.0,Hispanic or Latino
+5,Accidents ,3.5,298.0,F,8444850.0,Hispanic or Latino
+5,Malignant neoplasms ,2.2,184.0,F,8444850.0,Hispanic or Latino
+5,"Congenital malformations, deformations and chromosomal abnormalities ",0.9,78.0,F,8444850.0,Hispanic or Latino
+5,Assault ,0.7,60.0,F,8444850.0,Hispanic or Latino
+5,Diseases of heart ,0.4,37.0,F,8444850.0,Hispanic or Latino
+5,Influenza and pneumonia ,0.3,25.0,F,8444850.0,Hispanic or Latino
+5,"In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior ",Unreliable,18.0,F,8444850.0,Hispanic or Latino
+5,Cerebrovascular diseases ,Unreliable,16.0,F,8444850.0,Hispanic or Latino
+5,Septicemia ,Unreliable,16.0,F,8444850.0,Hispanic or Latino
+5,Chronic lower respiratory diseases ,Unreliable,11.0,F,8444850.0,Hispanic or Latino
+5,"Nephritis, nephrotic syndrome and nephrosis ",Unreliable,6.0,F,8444850.0,Hispanic or Latino
+5,Complications of medical and surgical care ,Unreliable,5.0,F,8444850.0,Hispanic or Latino
+5,Diabetes mellitus ,Unreliable,4.0,F,8444850.0,Hispanic or Latino
+5,Certain conditions originating in the perinatal period ,Unreliable,4.0,F,8444850.0,Hispanic or Latino
+5,Meningitis ,Unreliable,3.0,F,8444850.0,Hispanic or Latino
+5,Pneumonitis due to solids and liquids ,Unreliable,3.0,F,8444850.0,Hispanic or Latino
+5,Diseases of appendix ,Unreliable,3.0,F,8444850.0,Hispanic or Latino
+5,Accidents ,5.9,1762.0,M,29683266.0,White
+5,Malignant neoplasms ,2.7,816.0,M,29683266.0,White
+5,"Congenital malformations, deformations and chromosomal abnormalities ",1.1,339.0,M,29683266.0,White
+5,Assault ,0.7,201.0,M,29683266.0,White
+5,Diseases of heart ,0.3,101.0,M,29683266.0,White
+5,Influenza and pneumonia ,0.3,85.0,M,29683266.0,White
+5,"In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior ",0.2,69.0,M,29683266.0,White
+5,Cerebrovascular diseases ,0.2,54.0,M,29683266.0,White
+5,Septicemia ,0.2,48.0,M,29683266.0,White
+5,Chronic lower respiratory diseases ,0.1,40.0,M,29683266.0,White
+5,Certain conditions originating in the perinatal period ,0.1,27.0,M,29683266.0,White
+5,Anemias ,Unreliable,19.0,M,29683266.0,White
+5,"Nephritis, nephrotic syndrome and nephrosis ",Unreliable,19.0,M,29683266.0,White
+5,Meningitis ,Unreliable,18.0,M,29683266.0,White
+5,Complications of medical and surgical care ,Unreliable,15.0,M,29683266.0,White
+5,Accidents ,3.9,1103.0,F,28273597.0,White
+5,Malignant neoplasms ,2.4,685.0,F,28273597.0,White
+5,"Congenital malformations, deformations and chromosomal abnormalities ",1.1,321.0,F,28273597.0,White
+5,Assault ,0.6,173.0,F,28273597.0,White
+5,Diseases of heart ,0.4,125.0,F,28273597.0,White
+5,Influenza and pneumonia ,0.3,88.0,F,28273597.0,White
+5,"In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior ",0.3,76.0,F,28273597.0,White
+5,Septicemia ,0.2,51.0,F,28273597.0,White
+5,Cerebrovascular diseases ,0.2,50.0,F,28273597.0,White
+5,Chronic lower respiratory diseases ,0.1,28.0,F,28273597.0,White
+5,Certain conditions originating in the perinatal period ,Unreliable,19.0,F,28273597.0,White
+5,"Nephritis, nephrotic syndrome and nephrosis ",Unreliable,16.0,F,28273597.0,White
+5,Meningitis ,Unreliable,14.0,F,28273597.0,White
+5,Anemias ,Unreliable,10.0,F,28273597.0,White
+5,Pneumonitis due to solids and liquids ,Unreliable,10.0,F,28273597.0,White
+5,Accidents ,10.3,652.0,M,6345358.0,Black or African American
+5,Malignant neoplasms ,2.6,166.0,M,6345358.0,Black or African American
+5,Assault ,2.0,124.0,M,6345358.0,Black or African American
+5,"Congenital malformations, deformations and chromosomal abnormalities ",1.6,101.0,M,6345358.0,Black or African American
+5,Chronic lower respiratory diseases ,1.1,67.0,M,6345358.0,Black or African American
+5,Diseases of heart ,0.8,53.0,M,6345358.0,Black or African American
+5,Influenza and pneumonia ,0.4,26.0,M,6345358.0,Black or African American
+5,Anemias ,0.4,25.0,M,6345358.0,Black or African American
+5,Septicemia ,Unreliable,19.0,M,6345358.0,Black or African American
+5,"In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior ",Unreliable,15.0,M,6345358.0,Black or African American
+5,Certain conditions originating in the perinatal period ,Unreliable,12.0,M,6345358.0,Black or African American
+5,Meningitis ,Unreliable,7.0,M,6345358.0,Black or African American
+5,Cerebrovascular diseases ,Unreliable,7.0,M,6345358.0,Black or African American
+5,Human immunodeficiency virus ,Unreliable,6.0,M,6345358.0,Black or African American
+5,"Nephritis, nephrotic syndrome and nephrosis ",Unreliable,6.0,M,6345358.0,Black or African American
+2,Accidents ,11.2,1023.0,M,9110941.0,Hispanic or Latino
+2,"Congenital malformations, deformations and chromosomal abnormalities ",3.3,301.0,M,9110941.0,Hispanic or Latino
+2,Malignant neoplasms ,2.5,225.0,M,9110941.0,Hispanic or Latino
+2,Assault ,2.0,186.0,M,9110941.0,Hispanic or Latino
+2,Diseases of heart ,0.7,65.0,M,9110941.0,Hispanic or Latino
+2,Influenza and pneumonia ,0.5,50.0,M,9110941.0,Hispanic or Latino
+2,Septicemia ,0.3,29.0,M,9110941.0,Hispanic or Latino
+2,Certain conditions originating in the perinatal period ,0.3,24.0,M,9110941.0,Hispanic or Latino
+2,Cerebrovascular diseases ,0.3,23.0,M,9110941.0,Hispanic or Latino
+2,"In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior ",Unreliable,18.0,M,9110941.0,Hispanic or Latino
+2,Chronic lower respiratory diseases ,Unreliable,15.0,M,9110941.0,Hispanic or Latino
+2,Complications of medical and surgical care ,Unreliable,12.0,M,9110941.0,Hispanic or Latino
+2,Meningitis ,Unreliable,10.0,M,9110941.0,Hispanic or Latino
+2,Acute bronchitis and bronchiolitis ,Unreliable,9.0,M,9110941.0,Hispanic or Latino
+2,"Nephritis, nephrotic syndrome and nephrosis ",Unreliable,6.0,M,9110941.0,Hispanic or Latino
+2,Meningococcal infection ,Unreliable,6.0,M,9110941.0,Hispanic or Latino
+3,Accidents ,8.6,768.0,M,8980009.0,Hispanic or Latino
+3,Malignant neoplasms ,2.7,246.0,M,8980009.0,Hispanic or Latino
+3,"Congenital malformations, deformations and chromosomal abnormalities ",1.9,172.0,M,8980009.0,Hispanic or Latino
+3,Assault ,1.3,120.0,M,8980009.0,Hispanic or Latino
+3,Diseases of heart ,0.5,44.0,M,8980009.0,Hispanic or Latino
+3,Influenza and pneumonia ,0.5,42.0,M,8980009.0,Hispanic or Latino
+3,Septicemia ,0.3,23.0,M,8980009.0,Hispanic or Latino
+3,Chronic lower respiratory diseases ,0.2,21.0,M,8980009.0,Hispanic or Latino
+3,"In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior ",Unreliable,17.0,M,8980009.0,Hispanic or Latino
+3,Certain conditions originating in the perinatal period ,Unreliable,13.0,M,8980009.0,Hispanic or Latino
+3,Cerebrovascular diseases ,Unreliable,11.0,M,8980009.0,Hispanic or Latino
+3,Meningitis ,Unreliable,8.0,M,8980009.0,Hispanic or Latino
+3,Complications of medical and surgical care ,Unreliable,7.0,M,8980009.0,Hispanic or Latino
+3,"Nephritis, nephrotic syndrome and nephrosis ",Unreliable,6.0,M,8980009.0,Hispanic or Latino
+3,Anemias ,Unreliable,5.0,M,8980009.0,Hispanic or Latino
+6,Accidents ,3.4,70.0,M,2066105.0,Asian or Pacific Islander
+6,Malignant neoplasms ,2.1,43.0,M,2066105.0,Asian or Pacific Islander
+6,"Congenital malformations, deformations and chromosomal abnormalities ",Unreliable,17.0,M,2066105.0,Asian or Pacific Islander
+6,Diseases of heart ,Unreliable,12.0,M,2066105.0,Asian or Pacific Islander
+6,Assault ,Unreliable,11.0,M,2066105.0,Asian or Pacific Islander
+6,Septicemia ,Unreliable,5.0,M,2066105.0,Asian or Pacific Islander
+6,"In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior ",Unreliable,5.0,M,2066105.0,Asian or Pacific Islander
+6,Influenza and pneumonia ,Unreliable,3.0,M,2066105.0,Asian or Pacific Islander
+6,Anemias ,Unreliable,2.0,M,2066105.0,Asian or Pacific Islander
+6,Cerebrovascular diseases ,Unreliable,2.0,M,2066105.0,Asian or Pacific Islander
+6,Chronic lower respiratory diseases ,Unreliable,2.0,M,2066105.0,Asian or Pacific Islander
+6,Meningitis ,Unreliable,1.0,M,2066105.0,Asian or Pacific Islander
+6,Operations of war and their sequelae ,Unreliable,1.0,M,2066105.0,Asian or Pacific Islander
+6,Complications of medical and surgical care ,Unreliable,1.0,M,2066105.0,Asian or Pacific Islander
+6,Meningococcal infection ,Unreliable,1.0,M,2066105.0,Asian or Pacific Islander
+6,Intentional self-harm ,Unreliable,1.0,M,2066105.0,Asian or Pacific Islander
+5,Accidents ,7.7,49.0,F,635737.0,American Indian or Alaska Native
+5,"Congenital malformations, deformations and chromosomal abnormalities ",Unreliable,10.0,F,635737.0,American Indian or Alaska Native
+5,Assault ,Unreliable,9.0,F,635737.0,American Indian or Alaska Native
+5,Malignant neoplasms ,Unreliable,6.0,F,635737.0,American Indian or Alaska Native
+5,Septicemia ,Unreliable,4.0,F,635737.0,American Indian or Alaska Native
+5,Diseases of heart ,Unreliable,2.0,F,635737.0,American Indian or Alaska Native
+5,Certain conditions originating in the perinatal period ,Unreliable,2.0,F,635737.0,American Indian or Alaska Native
+5,Influenza and pneumonia ,Unreliable,2.0,F,635737.0,American Indian or Alaska Native
+5,Cerebrovascular diseases ,Unreliable,1.0,F,635737.0,American Indian or Alaska Native
+5,"In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior ",Unreliable,1.0,F,635737.0,American Indian or Alaska Native
+5,Anemias ,Unreliable,1.0,F,635737.0,American Indian or Alaska Native
+5,Chronic lower respiratory diseases ,Unreliable,1.0,F,635737.0,American Indian or Alaska Native
+5,Accidents ,11.3,74.0,M,655255.0,American Indian or Alaska Native
+5,Malignant neoplasms ,Unreliable,17.0,M,655255.0,American Indian or Alaska Native
+5,"Congenital malformations, deformations and chromosomal abnormalities ",Unreliable,7.0,M,655255.0,American Indian or Alaska Native
+5,Assault ,Unreliable,3.0,M,655255.0,American Indian or Alaska Native
+5,Diseases of heart ,Unreliable,2.0,M,655255.0,American Indian or Alaska Native
+5,Influenza and pneumonia ,Unreliable,2.0,M,655255.0,American Indian or Alaska Native
+5,Septicemia ,Unreliable,2.0,M,655255.0,American Indian or Alaska Native
+5,Cerebrovascular diseases ,Unreliable,2.0,M,655255.0,American Indian or Alaska Native
+5,"In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior ",Unreliable,1.0,M,655255.0,American Indian or Alaska Native
+5,Certain conditions originating in the perinatal period ,Unreliable,1.0,M,655255.0,American Indian or Alaska Native
+6,Accidents ,5.5,35.0,F,635023.0,American Indian or Alaska Native
+6,"Congenital malformations, deformations and chromosomal abnormalities ",Unreliable,8.0,F,635023.0,American Indian or Alaska Native
+6,Malignant neoplasms ,Unreliable,5.0,F,635023.0,American Indian or Alaska Native
+6,Assault ,Unreliable,4.0,F,635023.0,American Indian or Alaska Native
+6,Influenza and pneumonia ,Unreliable,3.0,F,635023.0,American Indian or Alaska Native
+6,Cerebrovascular diseases ,Unreliable,2.0,F,635023.0,American Indian or Alaska Native
+6,Acute bronchitis and bronchiolitis ,Unreliable,1.0,F,635023.0,American Indian or Alaska Native
+6,Anemias ,Unreliable,1.0,F,635023.0,American Indian or Alaska Native
+6,Chronic lower respiratory diseases ,Unreliable,1.0,F,635023.0,American Indian or Alaska Native
+6,Septicemia ,Unreliable,1.0,F,635023.0,American Indian or Alaska Native
+4,Accidents ,11.8,747.0,M,6323518.0,Black or African American
+4,Assault ,3.1,196.0,M,6323518.0,Black or African American
+4,Malignant neoplasms ,2.9,182.0,M,6323518.0,Black or African American
+4,"Congenital malformations, deformations and chromosomal abnormalities ",1.9,121.0,M,6323518.0,Black or African American
+4,Diseases of heart ,1.0,64.0,M,6323518.0,Black or African American
+4,Chronic lower respiratory diseases ,1.0,63.0,M,6323518.0,Black or African American
+4,Influenza and pneumonia ,0.6,39.0,M,6323518.0,Black or African American
+4,"In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior ",Unreliable,18.0,M,6323518.0,Black or African American
+4,Septicemia ,Unreliable,16.0,M,6323518.0,Black or African American
+4,Anemias ,Unreliable,16.0,M,6323518.0,Black or African American
+4,Certain conditions originating in the perinatal period ,Unreliable,13.0,M,6323518.0,Black or African American
+4,Cerebrovascular diseases ,Unreliable,11.0,M,6323518.0,Black or African American
+4,Human immunodeficiency virus ,Unreliable,11.0,M,6323518.0,Black or African American
+4,Complications of medical and surgical care ,Unreliable,9.0,M,6323518.0,Black or African American
+4,"Nephritis, nephrotic syndrome and nephrosis ",Unreliable,8.0,M,6323518.0,Black or African American
